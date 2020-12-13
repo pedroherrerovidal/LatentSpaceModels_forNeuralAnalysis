@@ -6,7 +6,7 @@ This project puts together a series of previously described Latent space models 
 ## This repository contains python implementations of:
 - Factor Analysis (FA) inference and learning (via EM).
 - Linear Dynamical System (LDS) inference and learning for multi-trial data (via EM).
-- Poisson Gaussian Process Factor Analysis (PGPFA) inference and learning (via EM). Orignal code by Hooram Nam in Macke lab [github_repo](https://gitlab.podri.org/nhooram/poisson-gpfa).
+- Poisson Gaussian Process Factor Analysis (PGPFA) inference and learning (via EM). Orignal code by Hooram Nam in the Macke lab [github_repo](https://gitlab.podri.org/nhooram/poisson-gpfa).
 - Spiking neural network described in [Bourdoukan et al. NeurIPS, 2012](https://papers.nips.cc/paper/2012/hash/3a15c7d0bbe60300a39f76f8a5ba6896-Abstract.html). Original code by Caroline Haimerl [github_repo](https://github.com/CarolineHaimerl27/LatentSpaceModels).
 - Dynamical systems neural network model of decision making described in [Wang Neuron, 2002](https://pubmed.ncbi.nlm.nih.gov/12467598/).
 
